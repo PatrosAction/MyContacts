@@ -14,6 +14,8 @@ A simple and user-friendly contact management application built with C# and Wind
 
 
 ⚙️Requirements
+
 🔷.NET Framework 4.7.2 or later
+
 🔷Windows OS
 
