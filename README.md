@@ -2,7 +2,7 @@
 
 A simple and user-friendly contact management application built with C# and Windows Forms.
 
-✨Features
+✨**Features**
 
 🔷Add, edit, and delete contacts
 
